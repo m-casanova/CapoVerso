@@ -1,4 +1,5 @@
 # Capo Verso
+* Versione 1.2: sistemazione di alcuni caratteri
 * Versione 1.0: versione iniziale
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/CapoVerso/).
